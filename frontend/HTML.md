@@ -220,7 +220,7 @@ A table is a collection of rows and columns. It is used to represent data in tab
     </tfoot>
 </table>
 ```
-![alt text](Img/table_html.png)
+![alt text](img/table_html.png)
 
 ## a tag :
 a or anchor tag defines a hyperlink. When clicked, it takes you to some other page
@@ -338,7 +338,7 @@ We use various input types and buttons inside a form as form elements
   <input type="reset" value="Reset">
 </form>
 ```
-![alt text](Img/image-1.png)
+![alt text](img/image-1.png)
 
 ## Characters & Symbols :
 Some symbols are not directly present on the keyboard, but there are some ways to use them in HTML documents. We can display them either by entity name, decimal, or hexadecimal value.
