@@ -2031,7 +2031,7 @@ Capture keypresses and perform actions based on the keys pressed.
 
 Event bubbling means that when an event occurs on an element, it first runs on that element and then propagates **upwards** (from child to parent) in the DOM tree.
 
-![alt text](Img/event-bubbling.png)
+![alt text](img/event-bubbling.png)
 
 
 **Example: Event Bubbling**
@@ -2101,7 +2101,7 @@ Stops the event from reaching any other event listeners on the same element.
 
 Event delegation allows us to attach a single event listener to a **parent** element instead of adding multiple listeners to each child element. Useful when handling **dynamically added elements**.
 
-![alt text](Img/js-event-delegation.png)
+![alt text](img/js-event-delegation.png)
 
 
 **Example: Using Event Delegation**
@@ -2272,7 +2272,7 @@ The Event Loop is a core concept in JavaScript that handles asynchronous tasks a
 
 <!-- ![alt text](img/js_event_loop.png) -->
 
-![JavaScript Event Loop](Img/js_event_loop.png)
+![JavaScript Event Loop](img/js_event_loop.png)
 
 ### Synchronous Code (Sync Code)
 

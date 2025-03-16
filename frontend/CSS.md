@@ -439,7 +439,7 @@ div {
 ---
 ## Box :
 ### Box Mode :
-![alt text](Img/css_box.png)
+![alt text](img/css_box.png)
 
 ### Padding :
 * **Definition** :Space between the content of an element and its border. It is inside the element’s border.
@@ -741,7 +741,7 @@ The overflow property controls what happens to content that is too large for its
 ---
 ## FlexBox
 Flexbox is a layout model that allows you to design complex layouts with ease by distributing space along a container's main and cross axes.
-![alt text](Img/css_flexbox.png)
+![alt text](img/css_flexbox.png)
 
 
 ### display: flex;
